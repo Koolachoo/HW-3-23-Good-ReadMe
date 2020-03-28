@@ -26,7 +26,7 @@ const something = [{
     },
     {
       message: "How would you install the modules?",
-      default: "npm i",
+      default: "npm install",
       type: "input",
       name: "install"
   },

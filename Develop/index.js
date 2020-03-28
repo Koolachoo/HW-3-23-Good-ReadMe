@@ -26,6 +26,7 @@ inquirer.prompt(something).then(function ({ username, project, license, descript
     * [Contributers](#contributers)
     * [Questions](#questions)
      ________________
+     
     ##Description
     ${description}
     ## Installation
